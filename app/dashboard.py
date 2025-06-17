@@ -1,13 +1,14 @@
-# app/dashboard.py – Now includes console logs and processing updates
+# app/dashboard.py – Updated with improved log capturing and error display
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 from pathlib import Path
 import subprocess
-import sys
 import datetime
 import time
-import os
+import sys, os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 from config.settings import RAW_DIR, OUTPUT_DIR, BASE_DIR
 from core.pipeline import MASTER_COLUMNS
@@ -50,19 +51,34 @@ with st.sidebar:
 
         if st.button("🔁 Run Pipeline"):
             with st.spinner("Running pipeline — this may take a few seconds..."):
-                result = subprocess.run(
-                    [sys.executable, str(BASE_DIR / "core" / "pipeline.py")],
-                    capture_output=True,
-                    text=True
-                )
-                log_output = result.stdout[-5000:] if result.stdout else "No logs captured."
-                error_output = result.stderr.strip()
-                if error_output:
-                    st.error("⚠️ Pipeline ran with errors. Check logs below.")
-                    log_output += f"\n\n[stderr]\n{error_output}"
-                else:
-                    st.success("✅ Resume(s) processed successfully!")
-                st.text_area("🧾 Console Logs", log_output, height=300)
+                try:
+                    result = subprocess.run(
+                        [sys.executable, str(BASE_DIR / "core" / "pipeline.py")],
+                        capture_output=True,
+                        text=True
+                    )
+                    stdout = result.stdout.strip()
+                    stderr = result.stderr.strip()
+
+                    if result.returncode != 0 or stderr:
+                        st.error("⚠️ Pipeline ran with errors. Check logs below.")
+                    else:
+                        st.success("✅ Resume(s) processed successfully!")
+
+                    if stdout or stderr:
+                        combined_logs = ""
+                        if stdout:
+                            combined_logs += stdout
+                        if stderr:
+                            combined_logs += "\n\n[stderr]\n" + stderr
+                        st.text_area("🧾 Console Logs", combined_logs.strip(), height=300)
+                    else:
+                        st.text_area("🧾 Console Logs", "⚠️ No output captured.", height=150)
+
+                except Exception as e:
+                    st.error("❌ An unexpected error occurred while running the pipeline.")
+                    st.text_area("🧾 Console Logs", str(e), height=150)
+
                 st.cache_data.clear()
                 time.sleep(1)
                 st.rerun()
