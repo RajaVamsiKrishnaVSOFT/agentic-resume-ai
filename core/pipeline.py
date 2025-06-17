@@ -1,5 +1,7 @@
 # app/core/pipeline.py – Final fixed version: ensures all columns present in CSV
 import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 import json
 import shutil
 import logging
