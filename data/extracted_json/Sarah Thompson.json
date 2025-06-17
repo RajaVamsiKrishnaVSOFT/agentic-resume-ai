@@ -1,0 +1,12 @@
+{
+  "name": "Sarah Thompson",
+  "email": "sarah.thompson.dev@gmail.com",
+  "phone": "+44 7700 900123",
+  "location": "London, UK",
+  "education": "degree: MSc in Computer Science | university: University College London | years: 2021\u20132023, degree: BSc in Mathematics | university: University of Leeds | years: 2017\u20132020",
+  "skills": "Python, Java, Docker, Kubernetes, REST APIs, React, Git, Agile, Communication, Leadership",
+  "companies": "FinTech Cloud Ltd., DataStream Analytics",
+  "job_titles": "Software Engineer, Backend Intern",
+  "project_titles": "BudgetWise, UniCompanion",
+  "project_links": "sarahthompson.dev, github.com/sarah-codes"
+}

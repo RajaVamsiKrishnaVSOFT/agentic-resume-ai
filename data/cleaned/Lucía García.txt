@@ -1,0 +1,31 @@
+Lucía García
+   Email: lucia.garcia.ux@gmail.com
+   Phone: +34 612 345 678
+   Location: Madrid, Spain
+
+   EDUCATION
+   - M.A. in Human-Computer Interaction — University of Barcelona (2016-2018)
+   - B.A. in Graphic Design — Complutense University of Madrid (2012-2016)
+
+   SKILLS
+   - Figma, Sketch, Adobe XD
+   - User Interviews, A/B Testing
+   - HTML/CSS, Responsive Design
+   - Leadership
+
+   EXPERIENCE
+   - UX Designer — FinPay Digital (Apr 2020 – Present)
+      - Led redesign of mobile app, boosting conversion by 18 %
+      - Conducted 40+ remote usability tests per quarter
+
+   - Junior UX Designer — PixelWave Studio (Jul 2018 – Mar 2020)
+      - Produced wireframes & prototypes for 15 client websites
+
+   PROJECTS
+   - SmartBanking On-boarding Flow
+   - TravelBuddy Micro-interaction Library
+
+   LANGUAGES
+   - Spanish (Native)
+   - English (Fluent)
+   - French (Intermediate)

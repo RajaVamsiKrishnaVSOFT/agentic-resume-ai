@@ -1,0 +1,37 @@
+David Kim
+   Email: david.kim.ml@gmail.com
+   Phone: +1 (415) 222-3344
+   Location: San Francisco, CA
+
+   Machine Learning Engineer with 6 years of experience in developing scalable ML models and deploying AI systems for production. Strong background in statistics and cloud platforms.
+
+   - Python
+   - TensorFlow
+   - PyTorch
+   - Scikit-learn
+   - Keras
+   - AWS
+   - GCP
+   - SQL
+   - Docker
+   - Kubernetes
+   - Data Engineering
+
+   ML Engineer – Amazon Web Services (AWS)
+   Seattle, WA | Feb 2020 – Present
+   - Built and deployed recommendation systems improving customer retention by 20%.
+   - Developed NLP pipelines for document classification using BERT.
+
+   Data Scientist – IBM Watson
+   San Francisco, CA | Jan 2017 – Jan 2020
+   - Developed predictive maintenance models for industrial equipment.
+   - Collaborated with product teams to integrate ML into enterprise solutions.
+
+   - Built a face recognition tool using OpenCV and TensorFlow; deployed via Flask API.
+   - Created a dashboard for real-time model drift detection using Streamlit.
+
+   Master of Science in Computer Science
+   Stanford University – 2016
+
+   TensorFlow Developer Certificate – DeepLearning.AI (2021)
+   Certified Kubernetes Administrator (CKA) – Linux Foundation (2022)

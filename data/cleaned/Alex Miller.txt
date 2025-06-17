@@ -1,0 +1,29 @@
+Alex Miller
+   Email: alex.miller.devops@outlook.com
+   Phone: +44 7700 555 901
+   Location: Manchester, UK
+
+   EDUCATION
+   - B.Eng. in Computer Engineering — University of Manchester (2008-2012)
+
+   CERTIFICATIONS
+   - AWS Certified Solutions Architect – Professional
+   - CKA (Certified Kubernetes Administrator)
+
+   SKILLS
+   - AWS, Azure DevOps, Docker, Kubernetes, Terraform, Jenkins, Python, Bash, Monitoring (Prometheus/Grafana), Incident Response
+
+   EXPERIENCE
+   - Lead DevOps Engineer — CloudCraft Ltd. (Jan 2019 – Present)
+      - Managed 200+ microservices across EKS and AKS clusters
+      - Automated CI/CD with Jenkins + Terraform, cutting deploy time from 45 min → 8 min
+      - Mentored 6 junior engineers
+   - DevOps Engineer — HyperNet Plc (2015 – 2018)
+   - Systems Administrator — CityBank UK (2012 – 2015)
+
+   PROJECTS
+   - Multi-cloud Disaster Recovery Pipeline
+   - Cost-Optimized Spot-Instance Autoscaler (open-sourced)
+
+   HOBBIES
+   - Cycling, Open-source contributor, Tech Blogging

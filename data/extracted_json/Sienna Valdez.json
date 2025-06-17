@@ -1,0 +1,12 @@
+{
+  "name": "Sienna Valdez",
+  "email": "sienna.valdez.dev@outlook.com",
+  "phone": "+1 (415) 987-6213",
+  "location": "Denver, CO, USA",
+  "education": "[\"B.Sc. in Computer Engineering, University of Colorado Boulder (2020)\"]",
+  "skills": "Python, FastAPI, Flask, PostgreSQL, MySQL, Redis, Docker, Kubernetes, Git, Unit Testing, CI/CD, Team Collaboration",
+  "companies": "CloudNova Inc., VertexStream",
+  "job_titles": "Software Engineer, Backend Developer",
+  "project_titles": "Incident Tracker Tool, Async Task Queue Manager",
+  "project_links": "https://github.com/sienna-valdez/incident-tracker, https://sienna.dev/async-tasks"
+}

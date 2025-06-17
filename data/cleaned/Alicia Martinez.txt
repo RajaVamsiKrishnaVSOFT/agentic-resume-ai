@@ -1,0 +1,42 @@
+Alicia Martinez
+   alicia.mtz89@gmail.com
+   (312) 555-9081
+   Austin, TX
+
+   Professional Summary
+   Detail-oriented Data Analyst with 4+ years of experience in interpreting and analyzing data to drive successful business solutions. Proven track record of using advanced analytics and visualization tools.
+
+   Skills
+   - SQL
+   - Python
+   - R
+   - Tableau
+   - Excel
+   - Power BI
+   - Data Cleaning
+   - Predictive Modeling
+   - A/B Testing
+   - Statistics
+
+   Experience
+   Data Analyst – HealthSync Corp (2021–Present)
+   - Created dashboards in Tableau to track patient outcomes and hospital KPIs.
+   - Automated monthly reporting processes, reducing manual effort by 50%.
+
+   Business Intelligence Intern – TrendSight Analytics (2020–2021)
+   - Cleaned and analyzed retail sales data using Pandas and Power BI.
+   - Conducted churn analysis and presented findings to senior stakeholders.
+
+   Projects
+   COVID-19 Impact Dashboard – Interactive visualization of regional case trends and vaccination rates.
+   Customer Segmentation Model – Clustering analysis for a retail dataset to improve marketing campaigns.
+
+   Education
+   B.A. in Statistics – University of Texas at Austin (2015–2019)
+
+   Certifications
+   Google Data Analytics Certificate
+   Tableau Desktop Specialist
+
+   Portfolio
+   https://aliciamartinez.dev/projectsects

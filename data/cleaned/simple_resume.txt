@@ -1,0 +1,13 @@
+John Smith
+   Email: john.smith@example.com
+   Phone: +1-123-456-7890
+   Location: Boston, MA
+
+Experience:
+- Software Engineer at ABC Corp
+- Intern at XYZ Inc
+
+Education:
+- B.Sc. in Computer Science, MIT
+
+Skills: Python, Java, Communication, Teamwork

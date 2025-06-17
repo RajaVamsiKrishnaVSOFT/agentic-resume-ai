@@ -1,0 +1,21 @@
+**Python Backend Developer**
+
+   Design and build robust RESTful APIs
+   Work with relational databases such as PostgreSQL or MySQL
+   Containerize services using Docker or Kubernetes
+   Collaborate in agile sprints and write clean, testable code
+
+   Required Skills:
+   - Python (Flask or FastAPI)
+   - PostgreSQL or MySQL
+   - Docker and Git
+   - Experience with CI/CD tools
+   - Strong communication and team skills
+
+   Contact Details:
+   [Your Name]
+   [Your Email]
+   [Your Phone Number]
+
+   Years of Experience: 3+
+   (Include any additional sections as they appear in the original resume)

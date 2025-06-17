@@ -1,0 +1,12 @@
+{
+  "name": "David Kim",
+  "email": "david.kim.ml@gmail.com",
+  "phone": "+1 (415) 222-3344",
+  "location": "San Francisco, CA",
+  "education": "Master of Science in Computer Science, Stanford University \u2013 2016, TensorFlow Developer Certificate \u2013 DeepLearning.AI (2021), Certified Kubernetes Administrator (CKA) \u2013 Linux Foundation (2022)",
+  "skills": "Python, TensorFlow, PyTorch, Scikit-learn, Keras, AWS, GCP, SQL, Docker, Kubernetes, Data Engineering",
+  "companies": "Amazon Web Services (AWS), IBM Watson",
+  "job_titles": "ML Engineer, Data Scientist",
+  "project_titles": "Built a face recognition tool using OpenCV and TensorFlow; created a dashboard for real-time model drift detection using Streamlit",
+  "project_links": ""
+}

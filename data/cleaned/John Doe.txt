@@ -1,0 +1,36 @@
+John Doe
+   123 Main Street, New York, NY 10001
+   Email: johndoe@example.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/johndoe
+
+   Professional Summary
+   Results-oriented Software Engineer with 5+ years of experience in full-stack web development, specializing in Python, JavaScript, and cloud technologies. Proven ability to design scalable systems and lead cross-functional teams.
+
+   Skills
+   - Programming: Python, JavaScript, Java, SQL
+   - Frameworks: Django, React, Node.js
+   - Tools: Git, Docker, Jenkins, AWS
+   - Soft Skills: Communication, Problem Solving, Team Leadership
+
+   Professional Experience
+   Senior Software Engineer
+   ABC Tech Solutions – New York, NY
+   Jan 2021 – Present
+   - Designed and implemented RESTful APIs using Django and PostgreSQL.
+   - Deployed scalable microservices architecture on AWS.
+   - Mentored 3 junior developers and conducted code reviews.
+
+   Software Developer
+   XYZ Innovations – New York, NY
+   Aug 2018 – Dec 2020
+   - Developed responsive front-end components with React and Redux.
+   - Integrated third-party APIs and improved system performance by 30%.
+   - Collaborated in Agile sprints with cross-functional teams.
+
+   Education
+   Bachelor of Science in Computer Science
+   University of New York, NY
+   2014 – 2018
+
+   Certifications
+   - AWS Certified Solutions Architect – Associate
+   - Certified Scrum Master (CSM)

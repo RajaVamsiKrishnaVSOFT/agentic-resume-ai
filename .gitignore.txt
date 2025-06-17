@@ -1,0 +1,27 @@
+# Byte-compiled / virtual env
+__pycache__/
+*.py[cod]
+*.so
+*.env
+venv/
+.env
+
+# VSCode
+.vscode/
+
+# Data files
+data/resumes_raw/
+data/processed/
+data/cleaned/
+data/output/*.csv
+data/extracted_json/
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.streamlit/secrets.toml

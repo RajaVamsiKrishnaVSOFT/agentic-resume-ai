@@ -1,0 +1,12 @@
+{
+  "name": "Alex Miller",
+  "email": "alex.miller.devops@outlook.com",
+  "phone": "+44 7700 555 901",
+  "location": "Manchester, UK",
+  "education": "- B.Eng. in Computer Engineering — University of Manchester (2008-2012)",
+  "skills": "AWS, Azure DevOps, Docker, Kubernetes, Terraform, Jenkins, Python, Bash, Monitoring (Prometheus/Grafana), Incident Response",
+  "companies": "CloudCraft Ltd., HyperNet Plc, CityBank UK",
+  "job_titles": "Lead DevOps Engineer, DevOps Engineer, Systems Administrator",
+  "project_titles": "Multi-cloud Disaster Recovery Pipeline, Cost-Optimized Spot-Instance Autoscaler",
+  "project_links": ""
+}

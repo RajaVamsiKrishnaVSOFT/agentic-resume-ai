@@ -1,0 +1,35 @@
+Jane Smith
+   Email: jane.smith@example.com
+   Phone: +1 987 654 3210
+   Location: Melbourne, VIC, Australia
+
+   EDUCATION
+   Bachelor of Business (Marketing) – University of Melbourne, 2018
+
+   SKILLS
+   - SEO
+   - Google Ads
+   - Meta Ads
+   - Analytics
+   - Email Campaigns
+   - Canva
+   - SEMrush
+   - Hootsuite
+
+   EXPERIENCE
+   Digital Marketing Manager – BrightBuzz Media (2021–Present)
+   - Managed SEO strategy, improving organic traffic by 65% YoY.
+   - Handled $30K/month PPC campaigns via Google & Meta Ads.
+   - Created weekly performance dashboards using Google Data Studio.
+
+   Marketing Executive – FreshFlicks (2018–2021)
+   - Executed email marketing campaigns (Mailchimp).
+   - Coordinated influencer outreach and product launch events.
+
+   PROJECTS
+   BrandBoost – Personal blog and portfolio on digital trends.
+   Web Revamp – Led redesign and UX overhaul for BrightBuzz’s main site.
+
+   PROJECT LINKS
+   https://janesmithmarketing.com
+   https://github.com/janesmith/brandboost

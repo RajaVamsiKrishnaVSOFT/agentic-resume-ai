@@ -1,0 +1,28 @@
+Vaishnavi Surapaneni  
+Email: vaishnavi.surapaneni@outlook.com  
+Phone: +61 456 789 123  
+Location: Sydney, NSW, Australia  
+
+EDUCATION  
+Bachelor of Biomedical Science, University of Melbourne (2020–2023)  
+
+SKILLS  
+Python, SQL, PostgreSQL, Pandas, Scikit-learn, PowerBI, Team Collaboration, Communication  
+
+EXPERIENCE  
+Intern - Data Analytics | HealthCore Systems | Jan 2023 – Jul 2023  
+- Built dashboards to visualize disease progression metrics  
+- Cleaned patient-level data using pandas and SQL queries  
+
+Project Assistant | UniMelb Biostatistics Lab | Jul 2022 – Dec 2022  
+- Conducted correlation analysis on lab datasets  
+- Assisted in preparing conference poster on respiratory health  
+
+PROJECTS  
+- PatientTrackr Web App  
+- Clinical Data Visualizer (Python, Dash)  
+- Health Risk Prediction using ML  
+
+LINKS  
+- GitHub: github.com/vaishnavi-ai  
+- Portfolio: vaishnavi.dev  

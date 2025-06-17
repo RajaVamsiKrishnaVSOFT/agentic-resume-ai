@@ -1,0 +1,12 @@
+{
+  "name": "John Doe",
+  "email": "johndoe@example.com",
+  "phone": "(123) 456-7890",
+  "location": "New York, NY",
+  "education": "Bachelor of Science in Computer Science, University of New York, NY, 2014 – 2018",
+  "skills": "Python, JavaScript, Java, SQL, Django, React, Node.js, Git, Docker, Jenkins, AWS, Communication, Problem Solving, Team Leadership",
+  "companies": "ABC Tech Solutions – New York, NY, XYZ Innovations – New York, NY",
+  "job_titles": "Senior Software Engineer, Software Developer",
+  "project_titles": "",
+  "project_links": ""
+}

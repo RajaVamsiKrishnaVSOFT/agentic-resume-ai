@@ -1,0 +1,24 @@
+Emily Chen
+   Email: emily.chen.dev@gmail.com
+   Phone: +61-421-345-678
+   Location: Melbourne, VIC, Australia
+
+   Education:
+      - Bachelor of Information Technology, RMIT University (2018–2021)
+
+   Experience:
+      - Junior Software Developer at CodeSphere Solutions (2022–Present)
+         - Developed internal tools using Node.js and Express
+         - Maintained cloud infrastructure (AWS EC2, S3, Lambda)
+         - Collaborated with cross-functional teams using Agile methodology
+
+      - IT Support Intern at AusTech Innovations (2020–2021)
+         - Assisted in diagnosing and troubleshooting network issues
+         - Provided desktop support and managed software installs
+
+   Projects:
+      - TaskFlow Manager – Built a full-stack productivity tracker with MERN
+      - WeatherMate App – A responsive app using OpenWeather API
+
+   Skills:
+      JavaScript, Node.js, MongoDB, React, HTML, CSS, Git, AWS, Teamwork, Problem Solving, Communication

@@ -1,0 +1,36 @@
+Aarav Kumar
+   Email: aarav.kumar.dev@gmail.com
+   Phone: +91 98765 43210
+   Location: Bengaluru, India
+
+---
+Professional Summary
+- Backend engineer with 4+ years of experience building REST APIs, deploying containerized applications, and scaling backend services in production.
+
+---
+Skills
+- Python, FastAPI, Flask
+- PostgreSQL, SQLite
+- Docker, Git, CI/CD
+- REST API Design, Agile Development
+
+---
+Experience
+- Backend Developer – CodeNova Tech (Feb 2022 – Present)
+  - Developed scalable APIs in FastAPI powering a SaaS analytics dashboard
+  - Integrated PostgreSQL with ORM for real-time reporting
+  - Containerized backend services with Docker and deployed on AWS
+
+- Software Engineer – ThinkEdge Labs (Jan 2020 – Jan 2022)
+  - Maintained and optimized Flask-based microservices
+  - Wrote unit and integration tests using PyTest
+  - Contributed to CI/CD pipelines using GitHub Actions
+
+---
+Education
+- B.Tech in Computer Science, Indian Institute of Technology, Madras – 2019
+
+---
+Projects
+- Data Sync Microservice (https://github.com/aaravkumar/data-sync)
+- Dockerized Flask Template (https://aarav.dev/flask-docker-starter)

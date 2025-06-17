@@ -1,0 +1,35 @@
+Sienna Valdez
+   Email: sienna.valdez.dev@outlook.com
+   Phone: +1 (415) 987-6213
+   Location: Denver, CO, USA
+
+---
+Professional Summary
+Creative and detail-oriented software engineer with 4 years of experience developing backend services and data pipelines. Adept at problem-solving, API design, and working in fast-paced agile environments.
+
+---
+Skills
+- Python, FastAPI, Flask
+- PostgreSQL, MySQL, Redis
+- Docker, Kubernetes, Git
+- Unit Testing, CI/CD, Team Collaboration
+
+---
+Experience
+Software Engineer – CloudNova Inc. (Mar 2022 – Present)
+- Developed and maintained RESTful APIs for a data analytics platform.
+- Led migration to FastAPI microservices and container orchestration with Kubernetes.
+- Integrated caching layers using Redis to reduce latency by 30%.
+
+Backend Developer – VertexStream (Jun 2020 – Feb 2022)
+- Created internal APIs for data ingestion and reporting automation.
+- Contributed to a company-wide switch to GitOps-based CI/CD pipelines.
+
+---
+Education
+B.Sc. in Computer Engineering, University of Colorado Boulder (2020)
+
+---
+Projects
+- Incident Tracker Tool: https://github.com/sienna-valdez/incident-tracker
+- Async Task Queue Manager: https://sienna.dev/async-tasks

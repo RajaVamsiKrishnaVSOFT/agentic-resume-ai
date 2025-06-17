@@ -1,0 +1,12 @@
+{
+  "name": "Meera Singh",
+  "email": "meera.singh.ai@gmail.com",
+  "phone": "+1 (628) 555-0123",
+  "location": "San Francisco, CA, USA",
+  "education": "[\"M.S. in Data Science, University of California, Berkeley \\u2013 2019\"]",
+  "skills": "Python, Scikit-learn, FastAPI, Pandas, NumPy, PostgreSQL, Redis, Docker, Git, REST APIs, Machine Learning, Deep Learning, NLP, Teamwork, Communication, Agile",
+  "companies": "BrainScale AI, Insightful Inc.",
+  "job_titles": "ML Engineer, Data Scientist",
+  "project_titles": "Text Classification API, Real-Time Model Inference Service",
+  "project_links": "https://github.com/meerasingh/text-api, https://meera.dev/fastapi-ml-inference"
+}

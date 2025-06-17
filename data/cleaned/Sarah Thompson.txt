@@ -1,0 +1,28 @@
+Sarah Thompson
+   Email: sarah.thompson.dev@gmail.com
+   Phone: +44 7700 900123
+   Location: London, UK
+
+   EDUCATION
+   - MSc in Computer Science — University College London (2021–2023)
+   - BSc in Mathematics — University of Leeds (2017–2020)
+
+   SKILLS
+   - Python, Java, Docker, Kubernetes, REST APIs, React, Git, Agile, Communication, Leadership
+
+   EXPERIENCE
+   - Software Engineer — FinTech Cloud Ltd. (Aug 2023 – Present)
+     - Developed containerized microservices using Python and Docker
+     - Integrated 3rd-party APIs for secure payment transactions
+     - Led Agile sprints and code review sessions
+   - Backend Intern — DataStream Analytics (Jul 2022 – Nov 2022)
+     - Built data pipelines in Python using Pandas and PostgreSQL
+     - Automated report generation using Jupyter + Matplotlib
+
+   PROJECTS
+   - BudgetWise (Web app for financial planning — React + Flask)
+   - UniCompanion (Student planner app built with Django REST Framework)
+
+   LINKS
+   - Portfolio: sarahthompson.dev
+   - GitHub: github.com/sarah-codes

@@ -1,0 +1,30 @@
+We are hiring a **Machine Learning Engineer** to build intelligent APIs and deploy real-time inference systems.
+
+
+
+Responsibilities:
+
+- Design and train ML models (scikit-learn, XGBoost, transformers)
+
+- Build APIs using FastAPI or Flask for model serving
+
+- Work with PostgreSQL and Redis for data access and caching
+
+- Containerize services with Docker and deploy in cloud
+
+- Collaborate with data scientists and backend engineers
+
+
+
+Required Skills:
+
+- Strong Python programming
+
+- Experience with REST API development (FastAPI preferred)
+
+- Familiarity with ML/NLP libraries like Scikit-learn, HuggingFace
+
+- Knowledge of Docker, Git, PostgreSQL
+
+- Good communication and team collaboration
+

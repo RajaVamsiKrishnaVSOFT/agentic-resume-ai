@@ -1,0 +1,14 @@
+We are looking for a **Python Backend Developer** with 3+ years of experience to join our engineering team.
+
+Key Responsibilities:
+- Design and build robust RESTful APIs
+- Work with relational databases such as PostgreSQL or MySQL
+- Containerize services using Docker or Kubernetes
+- Collaborate in agile sprints and write clean, testable code
+
+Required Skills:
+- Python (Flask or FastAPI)
+- PostgreSQL or MySQL
+- Docker and Git
+- Experience with CI/CD tools
+- Strong communication and team skills

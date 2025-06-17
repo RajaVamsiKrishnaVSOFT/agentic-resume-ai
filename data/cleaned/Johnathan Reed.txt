@@ -1,0 +1,29 @@
+Johnathan Reed  
+Email: john.reed.engineer@gmail.com  
+Phone: +1-312-555-0198  
+Location: Chicago, IL, USA  
+
+EDUCATION  
+Bachelor of Science in Mechanical Engineering  
+University of Illinois at Urbana-Champaign (2016 – 2020)  
+
+SKILLS  
+SolidWorks, AutoCAD, MATLAB, Python, FEA, CNC Machining, Communication, Team Leadership, Project Management  
+
+EXPERIENCE  
+Mechanical Design Engineer — Innovexa Robotics, Chicago, IL  
+June 2021 – Present  
+• Led the mechanical design of automated robotic arms for industrial clients  
+• Collaborated cross-functionally with software and electrical teams  
+
+Junior Engineer — Swift Manufacturing Solutions, Chicago, IL  
+Aug 2020 – May 2021  
+• Assisted in prototyping and testing new parts  
+• Maintained documentation for manufacturing specifications  
+
+PROJECTS  
+Smart Fan Design Optimization  
+• Applied CFD and FEA tools to improve cooling performance  
+
+3D-Printed Drone Chassis  
+• Designed and built a lightweight chassis for UAV using PLA and ABS  

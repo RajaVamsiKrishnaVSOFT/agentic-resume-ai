@@ -1,0 +1,12 @@
+{
+  "name": "Priya Mehta",
+  "email": "priya.mehta@email.com",
+  "phone": "+91-9876543210",
+  "location": "Bangalore, India",
+  "education": "B.Sc in Statistics, Christ University, Bangalore – 2019",
+  "skills": "Python, SQL, Excel, Power BI, Tableau, Data Visualization, Data Cleaning, Machine Learning, Communication, Problem Solving",
+  "companies": "Infosys Ltd, TCS",
+  "job_titles": "Data Analyst, Junior Data Analyst",
+  "project_titles": "Sales Forecasting System, Customer Churn Prediction, Interactive HR Dashboard",
+  "project_links": "github.com/priyamehta/sales-forecast, github.com/priyamehta/churn-model"
+}

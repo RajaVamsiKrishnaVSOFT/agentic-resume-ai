@@ -1,0 +1,12 @@
+{
+  "name": "Jane Smith",
+  "email": "jane.smith@example.com",
+  "phone": "+1 987 654 3210",
+  "location": "Melbourne, VIC, Australia",
+  "education": "Bachelor of Business (Marketing) – University of Melbourne, 2018",
+  "skills": "SEO, Google Ads, Meta Ads, Analytics, Email Campaigns, Canva, SEMrush, Hootsuite",
+  "companies": "BrightBuzz Media, FreshFlicks",
+  "job_titles": "Digital Marketing Manager, Marketing Executive",
+  "project_titles": "BrandBoost, Web Revamp",
+  "project_links": "https://janesmithmarketing.com, https://github.com/janesmith/brandboost"
+}

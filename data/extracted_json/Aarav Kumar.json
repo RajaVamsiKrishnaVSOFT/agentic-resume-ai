@@ -1,0 +1,12 @@
+{
+  "name": "Aarav Kumar",
+  "email": "aarav.kumar.dev@gmail.com",
+  "phone": "+91 98765 43210",
+  "location": "Bengaluru, India",
+  "education": "[\"B.Tech in Computer Science, Indian Institute of Technology, Madras \\u2013 2019\"]",
+  "skills": "Python, FastAPI, Flask, PostgreSQL, SQLite, Docker, Git, CI/CD, REST API Design, Agile Development",
+  "companies": "CodeNova Tech, ThinkEdge Labs",
+  "job_titles": "Backend Developer, Software Engineer",
+  "project_titles": "Data Sync Microservice, Dockerized Flask Template",
+  "project_links": "https://github.com/aaravkumar/data-sync, https://aarav.dev/flask-docker-starter"
+}

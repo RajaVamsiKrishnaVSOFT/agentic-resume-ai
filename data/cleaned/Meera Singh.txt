@@ -1,0 +1,51 @@
+Meera Singh
+   Email: meera.singh.ai@gmail.com
+   Phone: +1 (628) 555-0123
+   Location: San Francisco, CA, USA
+
+---
+Professional Summary
+AI/ML Engineer with 5+ years of experience in designing machine learning models and deploying scalable APIs in production environments. Skilled in Python, data pipelines, and model deployment.
+
+---
+Skills
+- Python
+- Scikit-learn
+- FastAPI
+- Pandas
+- NumPy
+- PostgreSQL
+- Redis
+- Docker
+- Git
+- REST APIs
+- Machine Learning
+- Deep Learning
+- NLP
+- Teamwork
+- Communication
+- Agile
+
+---
+Experience
+ML Engineer — BrainScale AI
+Jul 2021 – Present
+- Developed ML pipelines for fraud detection and recommendation engines
+- Deployed FastAPI microservices for real-time inference
+- Tuned hyperparameters and improved model F1-score by 15%
+
+Data Scientist — Insightful Inc.
+Aug 2019 – Jun 2021
+- Built NLP classifiers for customer sentiment analysis
+- Automated data cleaning and feature engineering workflows
+- Used PostgreSQL and Redis for data retrieval and caching
+
+---
+Education
+M.S. in Data Science
+University of California, Berkeley – 2019
+
+---
+Projects
+- Text Classification API: https://github.com/meerasingh/text-api
+- Real-Time Model Inference Service: https://meera.dev/fastapi-ml-inference

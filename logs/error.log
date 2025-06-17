@@ -1,0 +1,7 @@
+2025-06-08 22:13:41,211 | ERROR | Extract error test_resume1.docx: [Errno 13] Permission denied: 'C:\\Users\\RajaVamsiKrishnaAmja\\OneDrive - V-Soft Consulting Group, Inc\\Desktop\\agentic_resume_ai\\data\\resumes_raw\\test_resume1.docx'
+2025-06-08 22:13:41,211 | ERROR | Empty: test_resume1.docx
+2025-06-08 23:12:45,897 | ERROR | Extract error test_resume1.docx: [Errno 13] Permission denied: 'C:\\Users\\RajaVamsiKrishnaAmja\\OneDrive - V-Soft Consulting Group, Inc\\Desktop\\agentic_resume_ai\\data\\resumes_raw\\test_resume1.docx'
+2025-06-08 23:12:45,898 | ERROR | Empty text extracted: test_resume1.docx
+2025-06-08 23:46:57,918 | ERROR | Unhandled processing error: test_resume1.docx - 'row_hash'
+2025-06-09 00:37:05,078 | ERROR | Extract error test_resume1.docx: [Errno 13] Permission denied: 'C:\\Users\\RajaVamsiKrishnaAmja\\OneDrive - V-Soft Consulting Group, Inc\\Desktop\\agentic_resume_ai\\data\\resumes_raw\\test_resume1.docx'
+2025-06-09 00:37:05,079 | ERROR | Empty text extracted: test_resume1.docx

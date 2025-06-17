@@ -1,0 +1,12 @@
+{
+  "name": "John Smith",
+  "email": "john.smith@example.com",
+  "phone": "+1-123-456-7890",
+  "location": "Boston, MA",
+  "education": "[\"B.Sc. in Computer Science, MIT\"]",
+  "skills": "Python, Java, Communication, Teamwork",
+  "companies": "[\"ABC Corp\", \"XYZ Inc\"]",
+  "job_titles": "[\"Software Engineer\", \"Intern\"]",
+  "project_titles": "",
+  "project_links": ""
+}

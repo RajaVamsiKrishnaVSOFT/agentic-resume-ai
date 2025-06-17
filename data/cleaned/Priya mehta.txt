@@ -1,0 +1,44 @@
+Name: Priya Mehta
+   Email: priya.mehta@email.com
+   Phone: +91-9876543210
+   Location: Bangalore, India
+
+   Professional Summary: Detail-oriented Data Analyst with 3+ years of experience in data mining, analysis, and visualization. Proficient in SQL, Python, and BI tools like Power BI and Tableau. Adept at transforming raw data into actionable insights.
+
+   Skills:
+   - Python
+   - SQL
+   - Excel
+   - Power BI
+   - Tableau
+   - Data Visualization
+   - Data Cleaning
+   - Machine Learning
+   - Communication
+   - Problem Solving
+
+   Work Experience:
+   - Company: Infosys Ltd
+      - Role: Data Analyst
+         - Duration: Jan 2021 – Present
+            - Built interactive dashboards using Power BI to track KPIs for clients in the retail domain.
+            - Automated monthly reporting using Python and SQL, reducing manual effort by 40%.
+            - Conducted A/B testing and customer segmentation analysis.
+
+   - Company: TCS
+      - Role: Junior Data Analyst
+         - Duration: Jun 2019 – Dec 2020
+            - Analyzed web traffic data and provided recommendations that improved user retention by 15%.
+            - Developed SQL scripts to extract and clean data from Oracle and MySQL databases.
+
+   Education:
+   - B.Sc in Statistics, Christ University, Bangalore – 2019
+
+   Projects:
+   - **Sales Forecasting System:** Built a time-series model using ARIMA to forecast sales.
+   - **Customer Churn Prediction:** Applied logistic regression to predict customer churn.
+   - **Interactive HR Dashboard:** Created an HR analytics dashboard in Tableau.
+
+   Project Links:
+   - github.com/priyamehta/sales-forecast
+   - github.com/priyamehta/churn-model
